@@ -106,6 +106,8 @@ Identify top-performing products and regions.
 Analyze customer segments effectively.
 
 Make informed, data-driven business decisions.
+<img width="1061" height="702" alt="image" src="https://github.com/user-attachments/assets/1d8a3b9c-1997-40cd-b7de-98262425441b" />
+
 
 
 ### 👨‍💻 Author
